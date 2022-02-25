@@ -4,9 +4,9 @@ In this deep learning project, we are using the You-only-look-once(Yolo) algorit
 
 ## Getting Started
 
-* Save the required images on which the model needs to run in [image]().
-* Run [yolo_object_detection.py]() to load the model.
-* The program will return the images with the outlines and save it in [result]().
+* Save the required images on which the model needs to run in [image](https://github.com/tanush-r/fish-detection-yolo/tree/main/image).
+* Run [yolo_object_detection.py](https://github.com/tanush-r/fish-detection-yolo/blob/main/yolo_object_detection.py) to load the model.
+* The program will return the images with the outlines and save it in [result](https://github.com/tanush-r/fish-detection-yolo/tree/main/result).
 
 ## Results
 
